@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "FacturacionCliente\\FacturacionCliente.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\FacturacionAPI\\backendFacturacion\\backendFacturacion.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
